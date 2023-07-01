@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmeyKu1Karni
 - 👀 I’m interested in Data Science & Analytics.
-- 🌱 I’m currently learning through a NSQF leve 8 course on Data Science & Analytics from NIELIT Chennai.
+- 🌱 I’m currently enrolled in a Masters Program at University of Mumbai in Computer Science(specialization in Data Science).
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me :
 EmailID:-ameykulkarni044@gmail.com
